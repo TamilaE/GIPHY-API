@@ -6,4 +6,5 @@
 - Javascript
 - JQuery
 - API
+####This site was built using [GitHub Pages](https://tamilae.github.io/GIPHY-API/).
 
